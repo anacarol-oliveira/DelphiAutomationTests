@@ -1,2 +1,2 @@
-ERP_EXE_PATH = r"C:\asr\Master\master.exe"
+ERP_EXE_PATH = r"caminho_do_exe"
 DEFAULT_TIMEOUT = 10
